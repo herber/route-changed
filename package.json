@@ -1,6 +1,6 @@
 {
 	"name": "route-changed",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Listen for url changes",
 	"license": "MIT",
 	"repository": "herber/route-changed",
