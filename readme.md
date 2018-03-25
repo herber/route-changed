@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://travis-ci.org/herber/route-changed"><img src="https://travis-ci.org/herber/route-changed.svg?branch=master" alt="Build Status" /></a></p>
 
-<p align="center">A better way to listen for url changes.<p>
+<p align="center">🛤️🛣️ A better way to listen for url changes.<p>
 
 ## Install
 
