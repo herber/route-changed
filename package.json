@@ -1,0 +1,34 @@
+{
+	"name": "route-changed",
+	"version": "0.0.0",
+	"description": "Listen for url changes",
+	"license": "MIT",
+	"repository": "herber/route-changed",
+	"author": {
+		"name": "Tobias Herber",
+		"email": "tobihrbr@gmail.com",
+		"url": "tobihrbr.com"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "formatted && jest"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"router",
+		"history",
+		"route",
+		"change",
+		"pushstate",
+		"popstate"
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"formatted": "^1.0.0",
+		"jest": "^22.4.3"
+	}
+}
