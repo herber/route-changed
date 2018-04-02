@@ -15,6 +15,7 @@ module.exports = (cb, url) => {
 
     if (path != u) {
       cb(u);
+      path = u;
     }
   }, 200);
 };
